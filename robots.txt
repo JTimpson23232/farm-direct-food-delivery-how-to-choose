@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jtimpson23232.github.io/farm-direct-food-delivery-how-to-choose/sitemap.xml
